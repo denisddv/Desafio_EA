@@ -1,6 +1,6 @@
-#Projeto de Engenharia de Analytics - BanVic
+# Projeto de Engenharia de Analytics - BanVic
 
-##Introdução
+## Introdução
 
 Este projeto tem como objetivo implementar um sistema de análise de dados para o banco fictício Banco Vitória (BanVic). O foco principal é melhorar a compreensão dos dados financeiros da instituição, permitindo a tomada de decisões mais informadas e aumentando a eficiência operacional.
 Descrição do Desafio
