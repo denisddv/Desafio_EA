@@ -45,6 +45,8 @@ Após a preparação dos dados, foram realizadas várias análises para extrair 
 No Power BI, foram criados dashboards interativos que permitem uma análise visual e dinâmica dos dados. Algumas das visualizações incluídas nos dashboards são:
 Além das visualizações gráficas, foram incluídos vários cards informativos para destacar métricas importantes:
 
+https://app.powerbi.com/view?r=eyJrIjoiYTFhYjM3ZTctZDE4OS00OGEyLWI1OWMtOWIyMTJlZTdlMmY3IiwidCI6ImIzNGMxZDU1LWE0M2UtNGEyMC05MjE4LWExYTQyZWFiMTQ5YSJ9
+
 ## Conclusão
 
 Este projeto demonstrou a importância da análise de dados para melhorar a compreensão das operações e comportamentos dos clientes do BanVic. Através das análises e visualizações criadas, a instituição pode tomar decisões mais informadas e melhorar sua eficiência operacional. O próximo passo envolve a implementação desses insights para otimizar as operações do BanVic e proporcionar uma melhor experiência aos seus clientes.
